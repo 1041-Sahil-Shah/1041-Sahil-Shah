@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1041-Sahil-Shah
+- 👋 Hi, I’m Sahil-Shah
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning C,C++,HTML,Python
 - 💞️ I’m looking to collaborate on Python
