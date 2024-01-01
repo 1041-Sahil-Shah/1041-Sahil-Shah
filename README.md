@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil-Shah
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C,C++,HTML,Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Full-stack development
+- 🌱 I’m currently learning Node.Js,Express.Js
+- 💞️ I’m looking to collaborate on Node.JS
 - 📫 How to reach me ssahil1410@gmail.com
 
 <!---
